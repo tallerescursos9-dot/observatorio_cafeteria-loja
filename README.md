@@ -30,3 +30,9 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Se utilizó Gemini para una mejor redacción, verificando que los textos fueran claros y sencillos.
+
+## Supuestos y limitaciones
+- Supuesto 1 es costo
+- Supuesto 2 es ventas
+- Limitación es poca info
+- ¿Por qué importa para el decisor? para mejorar las ventas
